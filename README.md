@@ -29,8 +29,7 @@ The application operated through a text-based menu, allowing a user to:
 
 The goal of this refactoring was to re-engineer the original application as a professional, interactive, and scalable web service, addressing the limitations of the command-line interface.
 
-**Live Web Application:** https://vidushraj1.github.io/cruise-ship-management-webapp/
-*(Note: Replace with your actual GitHub Pages URL after deployment!)*
+**Live Web Application:** https://vidushraj1.github.io/cruiseship-management-webapp/
 
 ### New Features & Improvements
 
